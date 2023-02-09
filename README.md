@@ -1,2 +1,2 @@
 # university
-Open University Information System
+University Open Information System
